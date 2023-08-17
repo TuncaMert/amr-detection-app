@@ -7,6 +7,7 @@ import { detect, detectVideo } from "./utils/detect";
 import "./style/App.css";
 
 const App = () => {
+  
   const [loading, setLoading] = useState({ loading: true, progress: 0 }); // loading state
   const [model, setModel] = useState({
     net: null,
