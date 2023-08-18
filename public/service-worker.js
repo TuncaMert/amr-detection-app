@@ -1,24 +1,24 @@
 const cacheName = 'cache-v1';
 const resourcesToPrecache = [
     '/',
-    'index.html',
-    'logo512.png',
-    'yolov8n_web_model/group1-shard1of3.bin',
-    'yolov8n_web_model/group1-shard2of3.bin',
-    'yolov8n_web_model/group1-shard3of3.bin',
-    'yolov8n_web_model/metadata.yaml',
-    'yolov8n_web_model/model.json',
-    'src/components/btn-handler.jsx',
-    'src/components/loader.jsx',
-    'src/style/App.css',
-    'src/style/index.css',
-    'src/style/loader.css',
-    'src/utils/detect.js',
-    'src/utils/labels.json',
-    'src/utils/renderBox.js',
-    'src/utils/webcam.js',
-    'src/App.jsx',
-    'src/index.js'
+    './index.html',
+    './logo512.png',
+    './yolov8n_web_model/group1-shard1of3.bin',
+    './yolov8n_web_model/group1-shard2of3.bin',
+    './yolov8n_web_model/group1-shard3of3.bin',
+    './yolov8n_web_model/metadata.yaml',
+    './yolov8n_web_model/model.json',
+    './src/components/btn-handler.jsx',
+    './src/components/loader.jsx',
+    './src/style/App.css',
+    './src/style/index.css',
+    './src/style/loader.css',
+    './src/utils/detect.js',
+    './src/utils/labels.json',
+    './src/utils/renderBox.js',
+    './src/utils/webcam.js',
+    './src/App.jsx',
+    './src/index.js'
   
 
 
