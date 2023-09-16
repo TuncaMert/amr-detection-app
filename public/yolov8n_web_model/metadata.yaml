@@ -1,7 +1,7 @@
-description: Ultralytics YOLOv8n model trained on config.yaml
+description: Ultralytics YOLOv8n model trained on config3.yaml
 author: Ultralytics
 license: AGPL-3.0 https://ultralytics.com/license
-date: '2023-08-15T10:28:08.536628'
+date: '2023-09-15T23:27:59.018849'
 version: 8.0.150
 stride: 32
 task: detect
@@ -10,5 +10,4 @@ imgsz:
 - 640
 - 640
 names:
-  0: Eppendorf
-  1: Bubbles
+  0: Assay Area
